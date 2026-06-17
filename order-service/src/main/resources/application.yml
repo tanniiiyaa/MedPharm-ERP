@@ -8,7 +8,7 @@ spring:
     name: order-service
   data:
     mongodb:
-      uri: ${MONGODB_URI:mongodb+srv://demo:redhat@edublitz.laegfsa.mongodb.net/orders_db?appName=edublitz}
+      uri: ${MONGODB_URI:mongodb+srv://Misturi:pinkgreen123@misturi.vlozsp6.mongodb.net/orders_db?appName=Misturi}
       database: orders_db
   jackson:
     default-property-inclusion: non_null
